@@ -48,3 +48,8 @@ You will need to have Cygwin installed with SSH.
 - agent1 = 172.16.90.5
 - agent2 = 172.16.90.6
 - agent3 = 172.16.90.7
+
+Password is "vagrant" for all VMs.
+```
+ssh root@172.16.90.5
+```
